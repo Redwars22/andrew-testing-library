@@ -2,7 +2,7 @@
 
 ## SETTING ANDREW TESTING LIBRARY UP
 
-> Download the latest version Andrew Testing Library [here](), extract it somewhere inside the folder of your project and then create a folder named **test** and a file named **example.spec.ts**, then proceed to the next section.
+> Download the latest version Andrew Testing Library [here](https://github.com/Redwars22/andrew-testing-library/releases), extract it somewhere inside the folder of your project and then create a folder named **test** and a file named **example.spec.ts**, then proceed to the next section.
 
 ### WRITING YOUR FIRST TEST
 
