@@ -1,3 +1,5 @@
+<img src="https://cdn1.iconfinder.com/data/icons/laboratory-14/48/04-chemical-education-test_tube-chemistry-science-512.png" width="200px"/>
+
 ## SETTING ANDREW TESTING LIBRARY UP
 
 > Download the latest version Andrew Testing Library [here](), extract it somewhere inside the folder of your project and then create a folder named **test** and a file named **example.spec.ts**, then proceed to the next section.
