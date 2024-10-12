@@ -1,6 +1,6 @@
 {
   "name": "andrew-testing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Andrew Testing Library is a CLI JavaScript tool for testing JavaScript code",
   "main": "andrew-testing.js",
   "scripts": {
