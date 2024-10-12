@@ -4,6 +4,8 @@
 
 > Download the latest version Andrew Testing Library [here](https://github.com/Redwars22/andrew-testing-library/releases), extract it somewhere inside the folder of your project and then create a folder named **test** and a file named **example.spec.ts**, then proceed to the next section.
 
+TIP: You can also install it with `npm i andrew-testing`.
+
 ### WRITING YOUR FIRST TEST
 
 Paste the following code into the example.spec.ts file then save it.
